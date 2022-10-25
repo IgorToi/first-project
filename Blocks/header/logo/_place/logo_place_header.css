@@ -1,0 +1,12 @@
+.logo_place_header {
+  background-image: url(/images/logo_place_header.svg);
+  width: 228px;
+  height: 32px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin: 30px 64px;
+}
+
+
+
+

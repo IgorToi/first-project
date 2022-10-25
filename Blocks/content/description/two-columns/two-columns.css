@@ -1,0 +1,9 @@
+.two-columns {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  min-height: 335px;
+  padding: 100px 0px 100px 0px;
+  width: 80%;
+
+}

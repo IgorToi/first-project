@@ -1,0 +1,9 @@
+.feynman__link {
+  position: absolute;
+  top: 360px;
+  right: 48px;
+  transition: opacity 0.4s ease;
+}
+.feynman__link:hover {
+  opacity: 0.6;
+}
